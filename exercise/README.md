@@ -14,3 +14,14 @@
 - Create my own set of benchmarks (prompts)
 - Write down your thoughts on these models' responses. Which one do you prefer and why?
 - For details, please see [week4.ipynb](https://github.com/tangYang7/GAI/blob/main/exercise/week4.ipynb).
+
+# Week6: Create Your Own Chatbot Using the API Key
+- Apply for your own API key.
+- Have a conversation with your Chatbot and find the persona/background setting you want to implement.
+- Use Gradio for demonstration.
+- In [week6.ipynb](https://github.com/tangYang7/GAI/blob/main/exercise/week6.ipynb), the Chatbot Persona is **the domineering CEO** 
+
+# Week7: Build Your Own Chatbot – Advanced Version
+- Continue from assignment from week6. Modify ’s example to support continuous (multi-turn) conversation.
+- Use Gradio for demonstration.
+- For details, please see [week7.ipynb](https://github.com/tangYang7/GAI/blob/main/exercise/week7.ipynb).
