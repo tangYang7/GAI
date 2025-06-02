@@ -25,3 +25,14 @@
 - Continue from assignment from week6. Modify ’s example to support continuous (multi-turn) conversation.
 - Use Gradio for demonstration.
 - For details, please see [week7.ipynb](https://github.com/tangYang7/GAI/blob/main/exercise/week7.ipynb).
+
+# Week8: Retrieval Augmented Generation (RAG)
+
+# Week9: Build Your Own Chatbot - Two-stage Inference 
+
+# Week10: Diffusion Model Built by Bing
+
+# Week11: Build Your Own Image Generation Web
+
+# Week12: Image Generation using Fooocus 
+- If week12.ipynb can't open, check [HERE](https://colab.research.google.com/drive/1AbSOwJ7RL8p_twYTlHTOGGxqSqp0I5Ek?authuser=3#scrollTo=I79d0iFz05Jb) for the colab link.
