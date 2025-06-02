@@ -32,7 +32,7 @@
 - If week8b_RAG.ipynb can't be opened, check [HERE](https://colab.research.google.com/drive/19kIY0e_zKoDZ81mof5MbgLxb5VyJthte?usp=sharing) for the colab link.
 
 # Week9: Build Your Own Chatbot - Two-stage Inference 
-- Based on Week7, 
+- Based on Week7, build a Chatbot using two-stage CoT.
 - For details, please see [week9.ipynb](https://github.com/tangYang7/GAI/blob/main/exercise/week9.ipynb).
 
 # Week10: Diffusion Model Built by Bing
